@@ -7,6 +7,8 @@ User can register a user, and log in.
 
 The user can now add and delete todo's which will be stored using SQL. 
 
+TO RUN -> python3 app.py
+
 
 
 
